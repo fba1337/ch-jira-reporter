@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "asciichart": "^1.5.25",
+    "chart.js": "^4.4.1",
     "csv-parser": "^3.0.0",
     "express": "^4.18.2",
     "sqlite": "^5.1.1",
